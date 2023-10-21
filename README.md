@@ -2,10 +2,10 @@
 Convert each frame from a .ser file into individual .fits files.
 
 To use this script, you'll need these dependencies:
-python 3.8
-pySER-Reader (here: https://github.com/Copper280z/pySER-Reader/tree/master)
-numpy
-astropy
+python 3.8 \n
+pySER-Reader (here: https://github.com/Copper280z/pySER-Reader/tree/master) \n
+numpy \n
+astropy \n
 
 Using the script is simple:
 type into your terminal:
